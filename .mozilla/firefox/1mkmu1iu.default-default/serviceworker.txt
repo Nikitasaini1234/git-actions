@@ -1,0 +1,13 @@
+9
+^partitionKey=%28https%2Csait.ca%29
+https://www.googletagmanager.com/static/service_worker
+https://www.googletagmanager.com/static/service_worker/53k0/sw.js?origin=https%3A%2F%2Fwww.sait.ca
+false
+{bed60f3a-d5ed-42a0-aa56-c7ceaeff4486}
+1
+1742956132961936
+1742956133422914
+1742956132726996
+0
+true
+#
